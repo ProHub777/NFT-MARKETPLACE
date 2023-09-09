@@ -1,0 +1,26 @@
+@media (max-width: 1120px) {
+    .rasim {
+        width: 500px;
+        height: 700px;
+
+    }
+}
+
+@media (max-width: 430px) {
+    .rasim {
+        width: 350px;
+        height: 300px;
+    }
+
+    .header {
+        height: 150vh;
+    }
+
+    .main1 {
+        width: 350px;
+    }
+
+    .non {
+        width: 10px;
+    }
+}
